@@ -1,3 +1,5 @@
 # Deep-Learning-Projects
 
-This repo contains projects I did with a partner while taking Deep Learning (CS 5787) at Cornell Tech.
+This repository contains projects assigned to me in CS 5787 (Deep Learning) at Cornell Tech.
+
+
